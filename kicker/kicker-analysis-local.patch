@@ -1,0 +1,27 @@
+diff --git a/src/kicker_analysis/build_dataset.py b/src/kicker_analysis/build_dataset.py
+index 9f0ceb6..533a83a 100644
+--- a/src/kicker_analysis/build_dataset.py
++++ b/src/kicker_analysis/build_dataset.py
+@@ -48,7 +48,7 @@ RELEASE_LAST_SEASON = 2024
+ # Standard fantasy kicker scoring. Distance tiers are the whole reason player
+ # grain matters: a 52-yarder is worth 67% more than a 39-yarder, so two kickers
+ # with identical make counts are not worth the same.
+-SCORING = {"fg_0_39": 3.0, "fg_40_49": 4.0, "fg_50_": 5.0, "pat": 1.0, "fg_miss": 0.0}
++SCORING = {"fg_0_39": 3.0, "fg_40_49": 4.0, "fg_50_": 5.0, "pat": 1.0, "fg_miss": -1.0}
+ 
+ # Three franchises moved and the two sources disagree about it: the kicking
+ # release stamps every season with the CURRENT code (LA, LAC, LV) while the
+diff --git a/src/kicker_analysis/predict_week.py b/src/kicker_analysis/predict_week.py
+index 66a5f23..dc3a70d 100644
+--- a/src/kicker_analysis/predict_week.py
++++ b/src/kicker_analysis/predict_week.py
+@@ -52,8 +52,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
+ PROC = ROOT / "data" / "processed"
+ EXT = ROOT / "data" / "external"
+ REPORTS = ROOT / "reports"
+-SITE = pathlib.Path(
+-    r"C:\Users\TrevorWhite\Downloads\Big Projects\Fantasy Football\site\data\kickers.js")
++SITE = REPORTS / "kickers.js"
+ FIRST_SEASON = 2015
+ 
+ 
