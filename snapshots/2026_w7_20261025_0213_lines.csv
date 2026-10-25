@@ -1,0 +1,15 @@
+game_id,gameday,away_team,home_team,spread_line,total_line,roof,away_qb_name,home_qb_name
+2026_07_NE_CHI,2026-10-22,NE,CHI,3.0,50.5,outdoors,Drake Maye,Caleb Williams
+2026_07_PIT_NO,2026-10-25,PIT,NO,-3.0,43.5,dome,Aaron Rodgers,Tyler Shough
+2026_07_SF_ATL,2026-10-25,SF,ATL,-2.5,50.5,,Brock Purdy,Michael Penix Jr.
+2026_07_CIN_BAL,2026-10-25,CIN,BAL,-3.0,46.5,outdoors,Joe Burrow,Tyler Huntley
+2026_07_TB_CAR,2026-10-25,TB,CAR,3.0,44.5,outdoors,Jalon Daniels,Bryce Young
+2026_07_NYG_HOU,2026-10-25,NYG,HOU,10.5,42.5,,J.J. McCarthy,C.J. Stroud
+2026_07_IND_MIN,2026-10-25,IND,MIN,6.5,41.5,dome,Daniel Jones,Kyler Murray
+2026_07_MIA_NYJ,2026-10-25,MIA,NYJ,4.5,39.5,outdoors,Malik Willis,Geno Smith
+2026_07_CLE_TEN,2026-10-25,CLE,TEN,-2.5,36.5,outdoors,Deshaun Watson,Cam Ward
+2026_07_DEN_ARI,2026-10-25,DEN,ARI,-4.5,43.5,,Bo Nix,Jacoby Brissett
+2026_07_GB_DET,2026-10-25,GB,DET,3.5,55.5,dome,Jordan Love,Jared Goff
+2026_07_LA_LV,2026-10-25,LA,LV,-3.0,48.5,dome,Matthew Stafford,Kirk Cousins
+2026_07_KC_SEA,2026-10-25,KC,SEA,3.0,42.5,outdoors,Patrick Mahomes,Sam Darnold
+2026_07_DAL_PHI,2026-10-26,DAL,PHI,-4.5,44.5,outdoors,Dak Prescott,Jalen Hurts

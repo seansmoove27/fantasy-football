@@ -1,0 +1,31 @@
+team  last_kicker                  espn_kicker  change opp  F_team_implied  F_dome  F_wind  implied only  implied + dome  implied + dome + wind  ridge, all
+ MIN   W.Reichard                Will Reichard         IND           24.00     1.0     0.0          8.04            8.46                   8.46        9.91
+ HOU  K.Fairbairn             Ka'imi Fairbairn         NYG           26.25     1.0     0.0          8.43            8.83                   8.82        9.85
+ PIT    C.Boswell                Chris Boswell          NO           24.00     1.0     0.0          8.04            8.46                   8.46        9.00
+ DET      J.Bates                   Jake Bates          GB           28.25     1.0     0.0          8.78            9.16                   9.15        8.89
+ DEN       W.Lutz                     Wil Lutz         ARI           24.00     1.0     0.0          8.04            8.46                   8.46        8.66
+  LA      E.Evans Blake Grupe, Brandon McManus CHANGED  LV           26.50     1.0     0.0          8.48            8.87                   8.87        8.64
+ SEA      J.Myers                  Jason Myers          KC           22.75     0.0     6.0          7.83            7.66                   7.76        8.60
+  SF    E.Pineiro                 Eddy Pineiro         ATL           26.25     1.0     0.0          8.43            8.83                   8.82        8.55
+ IND    S.Shrader              Spencer Shrader         MIN           17.50     1.0     0.0          6.92            7.38                   7.39        8.37
+ BAL       T.Loop    Tyler Loop, Justin Tucker         CIN           27.25     0.0     5.0          8.61            8.41                   8.54        8.36
+ DAL     B.Aubrey               Brandon Aubrey         PHI           24.50     0.0     5.0          8.13            7.95                   8.09        8.28
+ ATL       N.Folk                    Nick Folk          SF           23.25     1.0     0.0          7.91            8.33                   8.33        8.26
+  LV        M.Gay                     Matt Gay          LA           22.00     1.0     0.0          7.70            8.13                   8.13        8.23
+ CAR R.Fitzgerald              Ryan Fitzgerald          TB           24.00     0.0     7.0          8.04            7.87                   7.91        8.18
+  NO    D.Carlson               Daniel Carlson         PIT           20.50     1.0     0.0          7.44            7.88                   7.88        8.14
+ CHI     C.Santos                 Cairo Santos          NE           26.75     0.0     4.0          8.52            8.32                   8.51        8.10
+  GB      T.Smack                   Trey Smack         DET           25.25     1.0     0.0          8.26            8.67                   8.66        8.07
+ ARI     C.Ryland                  Chad Ryland         DEN           19.50     1.0     0.0          7.27            7.71                   7.72        8.07
+ CLE      A.Szmyt                  Andre Szmyt         TEN           19.50     0.0     3.0          7.27            7.12                   7.37        7.99
+ CIN  E.McPherson               Evan McPherson         BAL           24.25     0.0     5.0          8.09            7.91                   8.05        7.94
+ NYJ    J.Sanders                Jason Sanders         MIA           21.50     0.0     6.0          7.61            7.45                   7.55        7.93
+  TB C.McLaughlin             Chase McLaughlin         CAR           20.50     0.0     7.0          7.44            7.29                   7.34        7.84
+  KC     H.Butker              Harrison Butker         SEA           19.75     0.0     6.0          7.31            7.16                   7.27        7.57
+  NE A.Borregales              Andy Borregales         CHI           23.75     0.0     4.0          8.00            7.82                   8.02        7.48
+ NYG      D.Zvada     Dominic Zvada, Ben Sauls         HOU           16.25     1.0     0.0          6.70            7.17                   7.19        7.44
+ TEN       J.Slye                    Joey Slye         CLE           18.00     0.0     3.0          7.01            6.87                   7.12        7.41
+ PHI    J.Elliott                 Jake Elliott         DAL           20.00     0.0     5.0          7.35            7.20                   7.35        7.24
+ MIA  R.Patterson              Riley Patterson         NYJ           17.00     0.0     6.0          6.83            6.70                   6.82        7.03
+
+CHANGED: the team kicker on ESPN differs from who kicked last; the projection follows the team.
